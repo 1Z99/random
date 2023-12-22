@@ -1,4 +1,4 @@
-### live link : [1z99.github.io/random/](Artrc)
+### live link : https://1z99.github.io/random/
 
 ### Artrc Random Gaming Hub
 Welcome to the Artrc Random Gaming Hub! This project is a dynamic web application that integrates with Random.org's API to offer a variety of gaming and randomization features.
