@@ -56,6 +56,12 @@ a:hover {
    color: #d3d3d3 !important;
 }
 
+.form-control {
+   border: 1px solid #3e2e4d !important;
+   background-color: rgba(20, 15, 15, 0.2) !important;
+   color: #ffffff !important;
+}
+
 
 
 h1 {
