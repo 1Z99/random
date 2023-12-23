@@ -10,7 +10,6 @@ Random Number Generation: Generate random numbers within a specified range.
 German Lotto Simulator: Simulate draws for the German Lotto.
 Keno Quick Pick: Generate random Keno tickets.
 Birdie Fund Randomizer: Randomly generate holes for birdie funds in golf.
-Getting Started
 
 ### To get started with this project:
 
@@ -29,7 +28,7 @@ Each feature of the application is designed to be intuitive and easy to use. Sim
 Contributions to this project are welcome! If you have a feature request, bug report, or pull request, please feel free to submit it.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License
 
 ### Acknowledgments
 Thanks to Random.org for providing the API used in this project.
